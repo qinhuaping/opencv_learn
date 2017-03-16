@@ -1,0 +1,4 @@
+/home/cti-12/opencv-learn/build/CMakeFiles/edit_cache.dir
+/home/cti-12/opencv-learn/build/CMakeFiles/rebuild_cache.dir
+/home/cti-12/opencv-learn/build/CMakeFiles/surf.dir
+/home/cti-12/opencv-learn/build/CMakeFiles/grabcut.dir
